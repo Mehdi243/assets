@@ -1,9 +1,8 @@
-# Trust Wallet Assets Info
+## Trust Wallet Assets Info
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
-##
-lOverview
+##1overvie
 
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
